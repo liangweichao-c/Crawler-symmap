@@ -5,3 +5,4 @@
 ![示例3](https://github.com/liangweichao-c/--symmap/blob/main/3.png)
 
 将keys改成需要搜索的药物即可
+下载下来的文件会放在资料文件夹内，目前是所有信息都会存入，可以在后面按需添加代码筛选
