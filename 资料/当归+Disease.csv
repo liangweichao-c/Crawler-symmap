@@ -1,0 +1,151 @@
+P_value,Orphanet_id,FDR(Bonferroni),Relationship,FDR(BH),Disease_id,Disease_name,OMIM_id
+1.5e-05,,1.0,By_ingredient,0.000222,SMDE00246,"Hypertension, Essential",145500
+0.0,,1e-06,By_ingredient,0.0,SMDE00461,Orthostatic Intolerance,604715
+0.0,649.0,0.279581,By_ingredient,1.1e-05,SMDE00497,Norrie Disease,310600
+0.000183,,1.0,By_ingredient,0.001482,SMDE00576,Li-Fraumeni Syndrome 1,151623
+0.0,,0.014554,By_ingredient,1e-06,SMDE00616,Brunner Syndrome,300615
+0.000644,79083.0,1.0,By_MM_symptom,0.005727,SMDE00698,"Lipodystrophy, Familial Partial, Type 3",604367
+0.0,,0.017687,By_ingredient,1e-06,SMDE00871,Pheochromocytoma,171300
+0.000385,,1.0,By_MM_symptom,0.035539,SMDE01067,"Deafness, Autosomal Dominant 9",601369
+0.000715,,1.0,By_MM_symptom|By_ingredient,0.004192,SMDE01316,3Mc Syndrome 3,248340
+0.000134,,1.0,By_ingredient,0.001169,SMDE01350,"Myasthenic Syndrome, Congenital, 10",254300
+0.00075,,1.0,By_ingredient,0.004346,SMDE01541,"Renal Cell Carcinoma, Nonpapillary",144700
+0.000305,,1.0,By_MM_symptom,0.003166,SMDE01589,"Leukocyte Adhesion Deficiency, Type Iii",612840
+2.3e-05,,1.0,By_ingredient,0.000301,SMDE01604,Schizophrenia,181500
+2.7e-05,897.0,1.0,By_MM_symptom,0.019685,SMDE01752,Waardenburg-Shah Syndrome,277580|613265|613266
+0.000113,,1.0,By_MM_symptom|By_ingredient|From_DB,0.003251,SMDE01883,"Parkinsonism-Dystonia, Infantile",613135
+0.0,,0.031541,By_ingredient,2e-06,SMDE01967,"Hyperekplexia, Hereditary 1",149400
+0.0,,0.165856,By_ingredient,7e-06,SMDE01973,Trypsinogen Deficiency,614044
+0.000111,524.0,1.0,By_ingredient,0.001014,SMDE01989,Li-Fraumeni Syndrome,151623|609266|609265
+8.9e-05,,1.0,By_MM_symptom,0.032833,SMDE02218,Mitochondrial Dna Depletion Syndrome 4B (Mngie Type),613662
+0.000423,,1.0,By_ingredient,0.002813,SMDE02273,Immunodeficiency 29,614890
+0.0007,,1.0,By_MM_symptom,0.006099,SMDE02302,Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins,265380
+0.0,3057.0,0.014554,By_ingredient,1e-06,SMDE02441,Monoamine Oxidase A Deficiency,300615
+0.000528,2801.0,1.0,By_MM_symptom,0.00489,SMDE02442,Juvenile Paget Disease,239000
+0.000604,,1.0,By_MM_symptom,0.005445,SMDE02646,"Coenzyme Q10 Deficiency, Primary, 8",616733
+0.0,,0.002134,By_ingredient,0.0,SMDE02989,Autism,209850
+0.000715,,1.0,By_MM_symptom|By_ingredient,0.004192,SMDE03071,3Mc Syndrome 2,265050
+0.000715,,1.0,By_ingredient,0.004192,SMDE03097,3Mc Syndrome 1,257920
+0.0,,7e-06,By_ingredient,0.0,SMDE03634,"Epileptic Encephalopathy, Early Infantile, 19",615744
+3e-06,,1.0,By_MM_symptom|By_ingredient,6.5e-05,SMDE04014,"Parkinson Disease, Late-Onset",168600
+0.000129,168829.0,1.0,By_MM_symptom,0.035429,SMDE05056,Primary Peritoneal Carcinoma,
+0.0,,0.194251,By_ingredient,8e-06,SMDE05089,"Dementia, Lewy Body",127750
+0.000703,,1.0,By_ingredient,0.004138,SMDE05208,Epilepsy,
+0.000441,,1.0,By_ingredient,0.002904,SMDE05218,Vitiligo,MTHU012246
+0.00019,,1.0,By_ingredient,0.001528,SMDE05391,Acrodermatitis Continua Of Hallopeau,614204
+0.0007,,1.0,By_MM_symptom,0.006099,SMDE05430,Acute Endomyometritis,
+0.0007,,1.0,By_MM_symptom,0.006099,SMDE05435,Acute Haemorrhagic Enterocolitis,
+4.5e-05,,1.0,By_ingredient,0.000501,SMDE05616,Adverse Reaction To Drug,
+0.0,,0.389696,By_MM_symptom|By_ingredient,1.4e-05,SMDE05642,Agoraphobia,MTHU036947
+0.000742,,1.0,By_ingredient,0.004313,SMDE05677,Alcohol Abuse,
+1.2e-05,,1.0,By_ingredient,0.000177,SMDE05688,Alcoholic Intoxication,
+0.0,,0.000122,By_ingredient,0.0,SMDE05689,"Alcoholic Intoxication, Chronic",103780
+0.000146,,1.0,By_ingredient,0.001243,SMDE05799,Amyloidosis,
+0.000313,,1.0,By_ingredient,0.002233,SMDE05882,Angioedema,MTHU010698
+0.000475,,1.0,By_MM_symptom,0.004473,SMDE05935,Anovulation,
+0.0,,0.014554,By_ingredient,1e-06,SMDE05960,Antisocial Behavior,MTHU045723
+1e-06,,1.0,By_MM_symptom|By_ingredient,3.6e-05,SMDE05961,Antisocial Personality Disorder,
+5e-06,,1.0,By_ingredient,9.8e-05,SMDE06090,Asthma,MTHU003537|MTHU005153
+0.000401,,1.0,By_ingredient,0.002704,SMDE06096,"Asthma, Occupational",
+0.0,,0.293823,By_ingredient,1.1e-05,SMDE06186,Autistic Disorder,209850|MTHU004240|MTHU028108
+0.000145,,1.0,By_MM_symptom,0.001738,SMDE06275,Barre Lieou Syndrome,
+0.0,,0.000503,By_ingredient,0.0,SMDE06442,Bipolar Disorder,MTHU036661|611535
+0.000577,,1.0,By_MM_symptom,0.005259,SMDE06512,Bone Conduction,
+6.2e-05,,1.0,By_ingredient,0.000644,SMDE06583,Brain Ischemia,
+0.000355,,1.0,By_ingredient,0.002461,SMDE06631,Bronchial Hyperreactivity,
+0.000305,,1.0,By_MM_symptom,0.003166,SMDE06681,Burning Vulva,
+0.00076,,1.0,By_MM_symptom,0.006527,SMDE06801,Cartilaginous Exostosis,MTHU000188
+3.2e-05,,1.0,By_ingredient,0.000392,SMDE06845,Cellulitis Nos,MTHU034281
+0.00019,,1.0,By_MM_symptom,0.002162,SMDE06916,Cervical Rib Syndrome,
+0.000423,,1.0,By_MM_symptom|By_ingredient,0.002813,SMDE07226,Chylous Ascites,208300|MTHU009835
+1e-06,,0.583383,By_ingredient,1.9e-05,SMDE07277,Cns Disorder,
+2e-06,,1.0,By_ingredient,4.1e-05,SMDE07289,Cocaine Abuse,
+0.000674,,1.0,By_ingredient,0.004009,SMDE07304,Cognition Disorders,
+0.000418,,1.0,By_MM_symptom,0.004054,SMDE07376,"Complaint, Subjective Health",
+0.000439,,1.0,By_MM_symptom,0.004213,SMDE07406,Concussion,
+0.000423,,1.0,By_ingredient,0.002813,SMDE07443,Congenital Chylous Ascites,
+0.00075,,1.0,By_ingredient,0.004346,SMDE07544,Conventional (Clear Cell) Renal Cell Carcinoma,MTHU015029|144700|142410
+3.5e-05,,1.0,By_MM_symptom,0.000555,SMDE07647,Cryoglobulinemia,
+0.000423,,1.0,By_ingredient,0.002813,SMDE07775,Delta Cell Tumor Of Jejunum,
+0.00073,,1.0,By_ingredient,0.004258,SMDE07852,"Diabetes Mellitus, Experimental",
+0.000101,,1.0,By_MM_symptom|By_ingredient,0.001304,SMDE07984,Disorders Of Excessive Somnolence,
+0.000997,,1.0,By_MM_symptom,0.008056,SMDE08045,Dry Eye Syndromes,
+0.000809,,1.0,By_ingredient,0.004604,SMDE08091,Dyslipidemias,MTHU033657
+0.000423,,1.0,By_ingredient,0.002813,SMDE08310,Enterobacteriaceae Infections,
+7e-05,,1.0,By_MM_symptom,0.000965,SMDE08323,Environmental Allergies,MTHU026086
+0.000379,,1.0,By_MM_symptom|By_ingredient,0.003759,SMDE08404,"Epilepsy, Generalized",
+0.000423,,1.0,By_ingredient,0.002813,SMDE08492,Esophageal And Gastric Varices,
+0.000533,,1.0,By_ingredient,0.003357,SMDE08942,Gastric Ulcer,MTHU036758
+0.000306,,1.0,By_ingredient,0.002197,SMDE08951,Gastroesophageal Reflux Disease,MTHU001906|109350|MTHU002522
+0.000187,,1.0,By_MM_symptom|By_ingredient,0.002139,SMDE09226,Hashimoto Disease,140300|MTHU036914|MTHU039817
+0.000439,,1.0,By_MM_symptom,0.004213,SMDE09263,Heat Exhaustion,
+0.000577,,1.0,By_MM_symptom,0.005259,SMDE09265,Heat Stress Disorders,
+0.0,,0.00055,By_ingredient,0.0,SMDE09359,Hepatic Encephalopathy,MTHU038294
+4e-06,,1.0,By_ingredient,8.1e-05,SMDE09723,Hypotension,MTHU001921|MTHU003384
+0.0,,0.106593,By_ingredient,5e-06,SMDE09766,Idiopathic Orthostatic Hypotension,
+0.000136,,1.0,By_ingredient,0.001181,SMDE09827,Induced Malaria,
+0.000585,,1.0,By_MM_symptom,0.005313,SMDE09911,Inflammatory Breast Carcinoma,
+0.000453,,1.0,By_ingredient,0.002964,SMDE09997,Intestinal Polyps,
+0.000982,,1.0,By_MM_symptom,0.007963,SMDE10014,Intracranial Thrombosis,MTHU021344
+0.000471,,1.0,By_ingredient,0.003055,SMDE10094,Ischemia,
+0.0007,,1.0,By_ingredient,0.004124,SMDE10211,Kidney Diseases,MTHU036995|MTHU047531
+0.000423,,1.0,By_ingredient,0.002813,SMDE10387,Leptomeningeal Melanoma,
+0.0,,0.194251,By_MM_symptom|By_ingredient,8e-06,SMDE10427,Lewy Body Disease,127750|163890|602569
+0.000387,,1.0,By_ingredient,0.00263,SMDE10450,Linitis Plastica,
+3.4e-05,,1.0,By_ingredient,0.000409,SMDE10545,Lung Diseases,
+0.000671,,1.0,By_MM_symptom,0.005916,SMDE10645,Magnesium Deficiency,
+0.0,,0.180058,By_ingredient,8e-06,SMDE10646,Major Depressive Disorder,608516
+0.000136,,1.0,By_ingredient,0.001181,SMDE10652,"Malaria, Cerebral",
+0.0,,0.021586,By_ingredient,1e-06,SMDE10666,Malignant Carcinoid Syndrome,
+0.00011,,1.0,By_ingredient,0.001002,SMDE10864,Meningoencephalitis,MTHU037268
+0.000849,,1.0,By_MM_symptom,0.007094,SMDE10865,Meningomyelocele,MTHU037353|MTHU037500
+4.2e-05,,1.0,By_ingredient,0.000481,SMDE10874,Mental Disorders,MTHU012421
+0.000703,,1.0,By_MM_symptom,0.006123,SMDE10988,Middle Ear Cholesteatoma,
+0.000393,,1.0,By_ingredient,0.002663,SMDE10992,Migraine Disorders,MTHU000541|157300|MTHU000096
+3.2e-05,,1.0,By_ingredient,0.000389,SMDE10996,Migraine Variant,
+1.7e-05,,1.0,By_ingredient,0.000233,SMDE11045,Mitral Valve Prolapse Syndrome,604715|157700|MTHU001468
+0.000778,,1.0,By_ingredient,0.004469,SMDE11082,Mood Disorders,MTHU018691
+1.2e-05,,1.0,By_ingredient,0.000177,SMDE11187,Myasthenia Gravis,254200
+2e-06,,1.0,By_ingredient,4.8e-05,SMDE11188,Myasthenia Gravis Without Acute Exacerbation,
+0.000356,,1.0,By_ingredient,0.002465,SMDE11217,Myocardial Infarction,MTHU008101|MTHU002361
+0.00019,,1.0,By_MM_symptom,0.002162,SMDE11277,Naffziger Syndrome,
+0.0,,0.010534,By_ingredient,1e-06,SMDE11392,Nervous System Disorder,
+0.0,,0.000872,By_MM_symptom|By_ingredient,0.0,SMDE11465,Neurotoxicity Syndromes,
+0.000919,,1.0,By_MM_symptom,0.007554,SMDE11498,Nocturnal Myoclonus Syndrome,
+0.00021,,1.0,By_ingredient,0.001651,SMDE11840,Pancreatic Diseases,
+0.0,,0.058815,By_ingredient,3e-06,SMDE11861,Pancreatic Pseudocyst,
+0.0,,0.031541,By_ingredient,2e-06,SMDE11879,Panic Disorder,
+4.4e-05,,1.0,By_ingredient,0.000499,SMDE11880,Panic Disorder 1,167870
+1e-06,,0.634476,By_ingredient,2e-05,SMDE11889,Papillary Necrosis,
+2e-06,,1.0,By_MM_symptom|By_ingredient,4.5e-05,SMDE11903,Paraepithymia,
+0.0,,0.305698,By_ingredient,1.1e-05,SMDE12111,Personality Disorders,MTHU037509
+6e-06,,1.0,By_ingredient,0.000111,SMDE12131,Pharyngeal Neoplasms,
+0.000919,,1.0,By_MM_symptom,0.007554,SMDE12166,Pigmented Villonodular Synovitis,
+6.5e-05,,1.0,By_ingredient,0.000669,SMDE12226,Pleural Effusion Disorder,MTHU012521|MTHU012482
+0.0,,0.000495,By_ingredient,0.0,SMDE12347,Post-Traumatic Stress Disorder,
+0.000919,,1.0,By_MM_symptom,0.007554,SMDE12393,Precursor B-Cell Lymphoblastic Leukemia-Lymphoma,
+6.8e-05,,1.0,By_ingredient,0.000694,SMDE12423,Presenile Dementia,MTHU006344
+0.0,,0.279581,By_ingredient,1.1e-05,SMDE12515,Pseudoglioma,MTHU010312
+0.000508,,1.0,By_MM_symptom,0.004739,SMDE12563,Psychophysiologic Insomnia,
+8.4e-05,,1.0,By_MM_symptom|By_ingredient,0.00112,SMDE12565,"Psychoses, Substance-Induced",
+1e-06,,1.0,By_ingredient,3.4e-05,SMDE12573,Pten Hamartoma Tumor Syndrome,601728
+0.0,,0.106593,By_ingredient,5e-06,SMDE12614,Pure Red-Cell Aplasia,
+0.0,,0.389806,By_ingredient,1.4e-05,SMDE12827,Restrictive Cardiomyopathy,MTHU002870|MTHU024747|561000
+0.000475,,1.0,By_MM_symptom,0.004473,SMDE12945,Salsalate Adverse Reaction,
+7e-06,,1.0,By_ingredient,0.000123,SMDE12980,Schizoid Personality Disorder,
+0.000145,,1.0,By_MM_symptom,0.001738,SMDE12983,Schizotypal Personality Disorder,
+0.0,,0.318313,By_ingredient,1.2e-05,SMDE13089,Serratia Infection,
+0.000577,,1.0,By_MM_symptom,0.005259,SMDE13145,Sick Sinus Syndrome Adverse Event,
+0.000577,,1.0,By_MM_symptom,0.005259,SMDE13146,Sick Sinus Syndrome Tachy Brady Type,
+0.000486,,1.0,By_ingredient,0.003129,SMDE13268,Solar Erythema,
+0.0007,,1.0,By_MM_symptom,0.006099,SMDE13391,"Spondylometaphyseal Dysplasia, Axial",602271
+0.0,,0.030975,By_ingredient,2e-06,SMDE13632,Status Epilepticus Due To Complex Partial Epileptic Seizure,
+0.000387,,1.0,By_ingredient,0.002629,SMDE13666,Stomach Distended,MTHU045179
+0.0,,0.415593,By_MM_symptom|By_ingredient,1.5e-05,SMDE13765,Syndrome Tolosa-Hunt,
+0.000238,,1.0,By_MM_symptom,0.002593,SMDE13852,Thompson Baraitser Syndrome,
+0.000207,,1.0,By_ingredient,0.00163,SMDE13865,Thrombocytopenia 1 (Disorder),313900|300392
+0.000919,,1.0,By_MM_symptom,0.007554,SMDE14014,Trisomy,
+0.000612,,1.0,By_ingredient,0.003727,SMDE14039,"Tuberculosis, Miliary",
+0.000577,,1.0,By_MM_symptom,0.005259,SMDE14062,Type 2 Papillary Renal Cell Carcinoma,
+0.0,,0.00126,By_ingredient,0.0,SMDE14133,Urologic Neoplasms,
+0.000475,,1.0,By_MM_symptom,0.004473,SMDE14161,Uv-Sensitive Syndrome,

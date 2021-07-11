@@ -1,0 +1,389 @@
+P_value,Orphanet_id,FDR(Bonferroni),Relationship,FDR(BH),Disease_id,Disease_name,OMIM_id
+0.000114,99977.0,1.0,By_ingredient,0.001031,SMDE00116,Squamous Cell Carcinoma Of Esophagus,133239
+5.4e-05,,1.0,By_ingredient,0.000586,SMDE00172,Lung Cancer,211980
+9.5e-05,2762.0,1.0,By_ingredient,0.000894,SMDE00204,"Osseous Heteroplasia, Progressive",166350
+3e-05,,1.0,By_ingredient,0.000374,SMDE00303,Marfan Syndrome,154700
+2e-06,,1.0,By_ingredient,5.3e-05,SMDE00364,"Neutropenia, Nonimmune Chronic Idiopathic, Of Adults",607847
+6.8e-05,797.0,1.0,By_ingredient,0.000697,SMDE00508,Sarcoidosis,612388|612387|181000
+1e-05,,1.0,By_ingredient,0.000163,SMDE00576,Li-Fraumeni Syndrome 1,151623
+0.000838,2970.0,1.0,By_MM_symptom,0.046479,SMDE00673,Prune Belly Syndrome,100100
+0.00015,,1.0,By_ingredient,0.001271,SMDE00694,Pancreatic Cancer,260350
+1.6e-05,,1.0,By_ingredient,0.000224,SMDE00787,"Periodontitis, Aggressive, 1",170650
+0.000833,905.0,1.0,By_MM_symptom|By_ingredient,0.004709,SMDE00866,Wilson Disease,277900
+0.000254,,1.0,By_MM_symptom,0.035429,SMDE00955,"Erythermalgia, Primary",133020
+0.0,90340.0,0.155189,By_MM_symptom|By_ingredient,7e-06,SMDE01160,Blau Syndrome,186580
+0.000674,,1.0,By_ingredient,0.004011,SMDE01210,Retinoblastoma,180200
+0.000855,229.0,1.0,By_ingredient,0.004807,SMDE01323,Familial Aortic Dissection,607086
+9.2e-05,,1.0,By_ingredient,0.000873,SMDE01332,Esophageal Cancer,133239
+0.000838,,1.0,By_MM_symptom,0.046479,SMDE01411,Sacral Defect With Anterior Meningocele,600145
+2.5e-05,,1.0,By_ingredient,0.000323,SMDE01745,"Granulomatous Disease, Chronic, X-Linked",306400
+0.000838,897.0,1.0,By_MM_symptom,0.046479,SMDE01752,Waardenburg-Shah Syndrome,277580|613265|613266
+6e-06,524.0,1.0,By_ingredient,0.000108,SMDE01989,Li-Fraumeni Syndrome,151623|609266|609265
+3e-05,,1.0,By_ingredient,0.000369,SMDE02176,Retinitis Pigmentosa 30,607921
+2.2e-05,,1.0,By_ingredient,0.000288,SMDE02318,Nasopharyngeal Carcinoma,607107
+0.000425,,1.0,By_ingredient,0.002825,SMDE02522,"Thyroid Hormone Resistance, Generalized, Autosomal Recessive",274300
+3e-06,3287.0,1.0,By_MM_symptom|By_ingredient,5.7e-05,SMDE02643,Takayasu Arteritis,207600
+0.000284,,1.0,By_ingredient,0.002074,SMDE02764,Mitochondrial Myopathy,251900
+0.000389,388.0,1.0,By_MM_symptom,0.035539,SMDE03018,Hirschsprung Disease,611644|142623|6|606874|613712|606875
+0.000234,,1.0,By_ingredient,0.001791,SMDE03022,Obesity,601665
+0.000254,,1.0,By_MM_symptom,0.035429,SMDE03123,"Coproporphyria, Hereditary",121300
+7.2e-05,2856.0,1.0,By_ingredient,0.000723,SMDE03128,Persistent M¨¹llerian Duct Syndrome,261550
+2.2e-05,379.0,1.0,By_MM_symptom|By_ingredient,0.000292,SMDE03445,Chronic Granulomatous Disease,233700|233690|613960|306400|233670|233710
+0.000593,,1.0,By_ingredient,0.011311,SMDE03552,"Ceroid Lipofuscinosis, Neuronal, 10",610127
+4e-06,,1.0,By_ingredient,7.5e-05,SMDE03622,Retinitis Pigmentosa 60,613983
+0.000293,,1.0,By_ingredient,0.00213,SMDE03644,Polycystic Kidney Disease 1,173900
+7.2e-05,104.0,1.0,By_ingredient,0.000723,SMDE03665,Leber Hereditary Optic Neuropathy,535000|535000|308905
+0.000311,,1.0,By_ingredient,0.002225,SMDE03677,"Corneal Dystrophy, Epithelial Basement Membrane",121820
+0.000214,,1.0,By_ingredient,0.001671,SMDE03753,"Thyroid Hormone Resistance, Generalized, Autosomal Dominant",188570
+0.000792,84.0,1.0,By_ingredient,0.00453,SMDE03785,Fanconi Anemia,227645|600901|613951|300514|603467|609053|227646|617247
+0.000109,,1.0,By_ingredient,0.000994,SMDE03855,"Melanoma, Cutaneous Malignant, Susceptibility To, 1",155600
+0.000214,,1.0,By_ingredient,0.001671,SMDE03895,"Thyroid Hormone Resistance, Selective Pituitary",145650
+0.0,,0.050839,By_ingredient,3e-06,SMDE04086,"Diabetes Mellitus, Noninsulin-Dependent",125853
+3.3e-05,1452.0,1.0,By_ingredient,0.000395,SMDE04318,Cleidocranial Dysplasia,119600|216330
+8.3e-05,,1.0,By_ingredient,0.00081,SMDE04347,Familial Adenomatous Polyposis 1,175100
+0.000716,794.0,1.0,By_ingredient,0.004193,SMDE04516,Saethre-Chotzen Syndrome,101400
+0.000867,,1.0,By_ingredient,0.004858,SMDE04754,Short-Rib Thoracic Dysplasia 4 With Or Without Polydactyly,613819
+2e-06,,1.0,By_ingredient,5.3e-05,SMDE04820,Ewing Sarcoma,612219
+6.7e-05,52416.0,1.0,By_ingredient,0.000688,SMDE04931,Mantle Cell Lymphoma,
+0.00016,,1.0,By_ingredient,0.001339,SMDE04945,Ovarian Cancer,167000
+3e-06,85414.0,1.0,By_MM_symptom|By_ingredient,7e-05,SMDE04951,Systemic-Onset Juvenile Idiopathic Arthritis,604302
+0.000389,100924.0,1.0,By_MM_symptom,0.035539,SMDE05011,Porphyria Due To Ala Dehydratase Deficiency,612740
+6.1e-05,168829.0,1.0,By_MM_symptom|By_ingredient,0.029784,SMDE05056,Primary Peritoneal Carcinoma,
+0.000929,,1.0,By_ingredient,0.005118,SMDE05211,Fever,MTHU005439|MTHU015481
+6e-06,,1.0,By_ingredient,0.0001,SMDE05223,Heat Stroke,
+0.0,,0.022529,By_ingredient,1e-06,SMDE05227,Whooping Cough,
+8.4e-05,,1.0,By_ingredient,0.000818,SMDE05232,"Arthritis, Rheumatoid",MTHU049127|607218|180300
+8.4e-05,,1.0,By_ingredient,0.000819,SMDE05233,Arthritis,
+0.000413,673.0,1.0,By_MM_symptom|By_ingredient,0.002763,SMDE05235,Malaria,611162
+0.000528,,1.0,By_ingredient,0.003331,SMDE05361,Acps Iii,101120
+0.000247,,1.0,By_ingredient,0.001864,SMDE05371,Acquired Immunodeficiency Syndrome,
+6.5e-05,,1.0,By_ingredient,0.000674,SMDE05415,Acute Appendicitis Nos (Disorder),
+0.0,,0.00916,By_ingredient,1e-06,SMDE05426,Acute Coronary Syndrome,
+0.000959,,1.0,By_ingredient,0.005243,SMDE05437,Acute Interstitial Pneumonia,
+1e-06,,0.996085,By_ingredient,2.9e-05,SMDE05441,Acute Lung Injury,
+7.6e-05,,1.0,By_ingredient,0.00076,SMDE05463,Adenocarcinoma,MTHU014125
+5.8e-05,,1.0,By_ingredient,0.000613,SMDE05472,Adenocarcinoma Of Esophagus,614266
+2.1e-05,,1.0,By_MM_symptom|By_ingredient,0.000276,SMDE05518,Adenolymphoma,
+2e-06,,1.0,By_ingredient,4.6e-05,SMDE05524,Adenomatous Polyposis Coli,175100|611731
+8e-06,,1.0,By_ingredient,0.000132,SMDE05602,Adult Primary Hepatocellular Carcinoma,
+4e-06,,1.0,By_ingredient,7.8e-05,SMDE05610,Adult-Onset Still Disease,
+3.5e-05,,1.0,By_ingredient,0.000414,SMDE05631,Age Related Macular Degeneration,MTHU044264|590050
+0.000325,,1.0,By_ingredient,0.002301,SMDE05717,Alopecia Areata,MTHU042248|MTHU036829
+0.000447,,1.0,By_MM_symptom|By_ingredient,0.002937,SMDE05745,Alveolar Osteitis,
+0.00019,,1.0,By_ingredient,0.00153,SMDE05843,Anemia,MTHU002606
+0.0,,0.115961,By_ingredient,5e-06,SMDE05856,Aneurysm,MTHU044974
+1.9e-05,,1.0,By_ingredient,0.000262,SMDE05894,Angiolymphoid Hyperplasia,
+1e-06,,0.518056,By_ingredient,1.7e-05,SMDE05947,Anthracosis,
+0.000325,,1.0,By_ingredient,0.002299,SMDE05983,Aortic Arch Syndrome,
+0.000268,,1.0,By_ingredient,0.001987,SMDE05999,Aphthous Stomatitis,MTHU008506|MTHU020588
+8.2e-05,,1.0,By_ingredient,0.000799,SMDE06004,Appendicitis,
+1.3e-05,,1.0,By_ingredient,0.000195,SMDE06030,Arsenic Poisoning,
+0.000284,,1.0,By_ingredient,0.002074,SMDE06038,Arteriosclerosis Obliterans,
+0.000276,,1.0,By_ingredient,0.002031,SMDE06047,"Arthritis, Experimental",
+1.6e-05,,1.0,By_ingredient,0.000232,SMDE06063,Asbestosis,
+4.1e-05,,1.0,By_ingredient,0.000469,SMDE06071,Aseptic Meningitis,
+2.5e-05,,1.0,By_ingredient,0.000323,SMDE06212,Autosomal Recessive Chronic Granulomatous Disease,
+0.000789,,1.0,By_ingredient,0.004516,SMDE06237,B-Cell Lymphomas,MTHU019696
+1e-05,,1.0,By_MM_symptom|By_ingredient,0.00016,SMDE06253,Bacterial Vaginosis,
+1.2e-05,,1.0,By_ingredient,0.00018,SMDE06282,Basal Cell Carcinoma,MTHU000128|MTHU022681
+1.2e-05,,1.0,By_ingredient,0.000186,SMDE06412,Bile Duct Carcinoma,
+1.4e-05,,1.0,By_ingredient,0.000201,SMDE06422,Bile Duct Neoplasms,
+0.000649,,1.0,By_ingredient,0.003895,SMDE06471,Bladder Squamous Cell Carcinoma,
+0.0,,0.022529,By_ingredient,1e-06,SMDE06538,Bordetella Infections,
+0.000309,,1.0,By_ingredient,0.002213,SMDE06540,Borrelia Infections,
+3.5e-05,,1.0,By_ingredient,0.000416,SMDE06577,Brain Edema,MTHU002553
+0.000132,,1.0,By_ingredient,0.001153,SMDE06629,Bronchial Diseases,
+0.000138,,1.0,By_MM_symptom|By_ingredient,0.001195,SMDE06633,Bronchial Spasm,MTHU001731
+0.00057,,1.0,By_ingredient,0.003529,SMDE06635,Bronchiolitis,MTHU004683|MTHU040531
+1.1e-05,,1.0,By_ingredient,0.000173,SMDE06691,Cachexia,MTHU037107
+0.000498,,1.0,By_ingredient,0.003187,SMDE06693,Calcinosis,
+0.000246,,1.0,By_ingredient,0.001859,SMDE06720,Canicola Fever,
+0.000129,,1.0,By_ingredient,0.001138,SMDE06740,Carcinoma Of Lung,603113|211980
+3.4e-05,,1.0,By_ingredient,0.000402,SMDE06771,Cardiomegaly,MTHU036393
+7.8e-05,,1.0,By_ingredient,0.00077,SMDE06772,Cardiomyopathies,MTHU036362
+0.000909,,1.0,By_ingredient,0.005036,SMDE06780,Cardiovascular Diseases,
+0.000358,,1.0,By_ingredient,0.002479,SMDE06798,Carotid Stenosis,
+0.000177,,1.0,By_ingredient,0.001448,SMDE06860,Central Neuroblastoma,
+0.000305,,1.0,By_ingredient,0.002192,SMDE06928,Chagas Disease,
+0.000305,,1.0,By_ingredient,0.002192,SMDE06930,Chagas' Disease + No Organ Inv,
+4.9e-05,,1.0,By_ingredient,0.00054,SMDE06962,Chikungunya Fever,
+0.000193,,1.0,By_ingredient,0.001547,SMDE07049,Cholestasis,MTHU001311
+0.000328,,1.0,By_MM_symptom|By_ingredient,0.00232,SMDE07056,Cholesteatoma,
+0.000297,,1.0,By_MM_symptom|By_ingredient,0.002148,SMDE07071,"Chondrosarcoma, Mesenchymal",
+1.2e-05,,1.0,By_MM_symptom|By_ingredient,0.00018,SMDE07077,Chorioamnionitis,
+7.3e-05,,1.0,By_ingredient,0.000733,SMDE07181,Chronic Fatigue Syndrome,
+0.000254,,1.0,By_ingredient,0.001908,SMDE07203,Chronic Multifocal Osteomyelitis,259680
+0.000163,,1.0,By_MM_symptom|By_ingredient,0.001354,SMDE07210,Chronic Periodontitis,260950
+1e-05,,1.0,By_ingredient,0.00016,SMDE07397,Complex Regional Pain Syndromes,
+4e-06,,1.0,By_ingredient,7.4e-05,SMDE07509,Congo Hemorrhagic Fever,
+3.4e-05,,1.0,By_ingredient,0.000411,SMDE07598,Coxiella Burnetii Infection,
+4.4e-05,,1.0,By_ingredient,0.000499,SMDE07636,Crohn'S Disease Of Large Bowel,MTHU037235
+0.000792,,1.0,By_ingredient,0.00453,SMDE07651,Cryopyrin-Associated Periodic Syndromes,
+0.000882,,1.0,By_MM_symptom|By_ingredient,0.004925,SMDE07697,"Cyst, Pulmonary Hydatid",
+0.000183,,1.0,By_ingredient,0.001487,SMDE07698,Cystadenocarcinoma,
+0.000676,,1.0,By_ingredient,0.004017,SMDE07709,Cysticercosis,
+1e-06,,0.496366,By_ingredient,1.7e-05,SMDE07713,Cystitis,
+1e-06,,0.481999,By_ingredient,1.6e-05,SMDE07764,Degenerative Polyarthritis,MTHU005547|MTHU005594|MTHU007552
+3.7e-05,,1.0,By_ingredient,0.00043,SMDE07781,Demyelinating Diseases,
+3.8e-05,,1.0,By_ingredient,0.000447,SMDE07817,"Dermatitis, Allergic Contact",
+0.000618,,1.0,By_ingredient,0.003754,SMDE07824,Dermatologic Disorders,
+2e-06,,1.0,By_ingredient,5e-05,SMDE07853,"Diabetes Mellitus, Insulin-Dependent",MTHU013561|MTHU012236|222100|MTHU006777|612227|MTHU047431|MTHU023582|MTHU007813
+0.0,,0.050839,By_ingredient,3e-06,SMDE07854,"Diabetes Mellitus, Non-Insulin-Dependent",MTHU047504|167413|125853|138033|601724|138430|147545|164731|600281|MTHU014118|138160|600509|147670|189907|604641|MTHU006778|MTHU051483|MTHU023629|MTHU028982
+1e-05,,1.0,By_ingredient,0.000163,SMDE07865,Diabetic Neuropathies,
+1e-05,,1.0,By_ingredient,0.000158,SMDE07875,Diaphragmatic Hernia,MTHU001436
+0.000705,,1.0,By_ingredient,0.004144,SMDE07877,"Diaphyseal Dysplasia 1, Progressive",131300
+0.000311,,1.0,By_ingredient,0.002225,SMDE07906,Diffuse Astrocytoma,
+4e-05,,1.0,By_ingredient,0.000465,SMDE07916,Digestive System Disorders,
+1.8e-05,,1.0,By_MM_symptom|By_ingredient,0.000249,SMDE07917,Digestive System Neoplasms,
+1.6e-05,,1.0,By_ingredient,0.000229,SMDE07972,Disorder Of Eye,
+0.000713,,1.0,By_ingredient,0.00418,SMDE08045,Dry Eye Syndromes,
+0.000705,,1.0,By_ingredient,0.004144,SMDE08085,Dysgerminoma Of Ovary,
+0.000882,,1.0,By_ingredient,0.004925,SMDE08129,"Echinococcosis, Hepatic",
+4e-06,,1.0,By_ingredient,7.3e-05,SMDE08221,"Encephalitis, Epidemic",
+0.000238,,1.0,By_ingredient,0.001814,SMDE08248,"Endocarditis, Atypical, Verrucous",
+6.2e-05,,1.0,By_ingredient,0.000647,SMDE08305,Entamoebiasis,
+7e-06,,1.0,By_ingredient,0.000123,SMDE08443,Epithelial Hepatic And Intrahepatic Bile Duct Neoplasm,
+0.000246,,1.0,By_ingredient,0.001859,SMDE08453,Equine Infectious Anemia,
+9.2e-05,,1.0,By_ingredient,0.000873,SMDE08495,Esophageal Carcinoma,MTHU017591|133239
+0.000469,,1.0,By_ingredient,0.003043,SMDE08501,Esophageal Neoplasms,
+1.2e-05,,1.0,By_ingredient,0.000186,SMDE08507,Esophagitis,MTHU018345
+2e-06,,1.0,By_ingredient,5.3e-05,SMDE08531,Ewings Sarcoma,612219|MTHU015822
+2e-06,,1.0,By_MM_symptom|By_ingredient,5.2e-05,SMDE08532,Ewings Sarcoma-Primitive Neuroectodermal Tumor (Pnet),
+0.000902,,1.0,By_ingredient,0.005009,SMDE08579,Extrinsic Allergic Alveolitis,
+0.000236,,1.0,By_ingredient,0.001804,SMDE08591,Eye Neoplasms,
+2.1e-05,,1.0,By_ingredient,0.000278,SMDE08685,Fatty Liver,MTHU030302|MTHU012425|MTHU014725
+0.0,,0.012455,By_ingredient,1e-06,SMDE08686,"Fatty Liver, Alcoholic",
+0.000311,,1.0,By_ingredient,0.002225,SMDE08733,Fibrillary Astrocytoma,
+0.000246,,1.0,By_ingredient,0.001859,SMDE08748,Fiedler Disease,
+0.000768,,1.0,By_ingredient,0.004423,SMDE08753,Filariasis,
+0.000246,,1.0,By_ingredient,0.001859,SMDE08829,Fort Bragg Fever,
+0.000736,,1.0,By_MM_symptom|By_ingredient,0.004287,SMDE08877,Fungal Mycetoma,
+1e-06,,0.916994,By_ingredient,2.7e-05,SMDE08923,Gastric Adenocarcinoma,MTHU016128
+0.000157,,1.0,By_MM_symptom|By_ingredient,0.001318,SMDE08946,"Gastritis, Atrophic",MTHU040126|MTHU037538
+1.7e-05,,1.0,By_ingredient,0.000235,SMDE08955,Gastrointestinal Diseases,
+0.0,,0.344062,By_ingredient,1.3e-05,SMDE08960,Gastrointestinal Neoplasms,
+0.000651,,1.0,By_ingredient,0.003905,SMDE08999,"Genital Neoplasms, Female",
+0.000685,,1.0,By_ingredient,0.004056,SMDE09039,Gingivitis,MTHU007445
+0.000921,,1.0,By_ingredient,0.005087,SMDE09047,Glioblastoma,MTHU008964
+6.8e-05,,1.0,By_ingredient,0.000697,SMDE09051,Glioma,MTHU011462
+0.000363,,1.0,By_ingredient,0.002502,SMDE09067,Glossitis,MTHU037108
+9.3e-05,,1.0,By_ingredient,0.000883,SMDE09208,Hamartomatous Polyp,MTHU017022
+0.000685,,1.0,By_ingredient,0.004056,SMDE09209,Hamman-Rich Syndrome,
+0.000347,,1.0,By_ingredient,0.00242,SMDE09259,Heart Valve Disease,MTHU007190|MTHU039983
+9.4e-05,,1.0,By_ingredient,0.000892,SMDE09269,Helicobacter Infections,
+9.8e-05,,1.0,By_ingredient,0.000922,SMDE09338,Hemolytic-Uremic Syndrome,MTHU037996
+4e-06,,1.0,By_ingredient,7.4e-05,SMDE09348,"Hemorrhagic Fever, Crimean",
+0.000246,,1.0,By_ingredient,0.001859,SMDE09351,Hemorrhagic Jaundice,
+7e-06,,1.0,By_ingredient,0.000123,SMDE09358,Hepatic And Intrahepatic Bile Duct Neoplasm,
+0.000297,,1.0,By_ingredient,0.002148,SMDE09375,"Hepatitis C, Chronic",
+0.000291,,1.0,By_ingredient,0.002118,SMDE09383,"Hepatitis, Chronic",MTHU038293|MTHU046633
+1.1e-05,,1.0,By_ingredient,0.000171,SMDE09386,Hepatoblastoma,MTHU007922|114550|191170
+3.3e-05,,1.0,By_ingredient,0.000395,SMDE09462,Heterotopic Ossification,MTHU031760
+0.000676,,1.0,By_ingredient,0.004017,SMDE09486,Histidinemia,609457|235800
+0.000732,,1.0,By_ingredient,0.004267,SMDE09487,Histidinuria Renal Tubular Defect,235830
+0.000264,,1.0,By_ingredient,0.001967,SMDE09490,Histiocytic Sarcoma,
+0.000254,,1.0,By_ingredient,0.001908,SMDE09567,Hydrocephalus Adverse Event,
+0.000713,,1.0,By_ingredient,0.00418,SMDE09593,Hypercalcemia,MTHU036717
+0.000536,,1.0,By_ingredient,0.003371,SMDE09614,Hyperhomocysteinemia,603174
+9.4e-05,,1.0,By_ingredient,0.000892,SMDE09648,Hypersensitivity,MTHU047042|MTHU030932
+4.3e-05,,1.0,By_ingredient,0.000491,SMDE09668,Hypertrophic Cardiomyopathy,590035|MTHU038926|MTHU036522|MTHU037025
+0.000325,,1.0,By_ingredient,0.002299,SMDE09757,Idiopathic Aortitis,
+0.000448,,1.0,By_ingredient,0.002938,SMDE09791,Immune System Diseases,
+0.000676,,1.0,By_ingredient,0.004017,SMDE09808,Inborn Errors Of Metabolism,
+0.000408,,1.0,By_ingredient,0.002737,SMDE09827,Induced Malaria,
+2.5e-05,,1.0,By_ingredient,0.000317,SMDE09839,Infantile Paralysis,
+0.000329,,1.0,By_ingredient,0.002322,SMDE09869,Infectious Otitis Media,
+2e-05,,1.0,By_ingredient,0.00027,SMDE09870,Infective Cystitis,
+4e-05,,1.0,By_ingredient,0.00046,SMDE09981,Intervertebral Disc Degeneration,MTHU034632|MTHU014578
+5e-05,,1.0,By_ingredient,0.000548,SMDE09982,Intervertebral Disc Disorder,603932
+3e-06,,1.0,By_ingredient,5.9e-05,SMDE09987,Intestinal Diseases,MTHU003979
+1.5e-05,,1.0,By_ingredient,0.000217,SMDE09992,Intestinal Neoplasms,
+0.000264,,1.0,By_ingredient,0.001967,SMDE10011,Intracranial Hypertension,MTHU009512
+1e-06,,0.662161,By_ingredient,2.1e-05,SMDE10094,Ischemia,
+0.000246,,1.0,By_ingredient,0.001859,SMDE10109,"Jaundice, Infectious",
+8e-06,,1.0,By_ingredient,0.000129,SMDE10155,Kaposi Sarcoma,
+1.4e-05,,1.0,By_ingredient,0.000201,SMDE10161,Kashin-Beck Disease,
+1.9e-05,,1.0,By_ingredient,0.000256,SMDE10173,Keratitis Sicca,
+1.9e-05,,1.0,By_MM_symptom|By_ingredient,0.000256,SMDE10179,Keratoconjunctivitis Sicca,MTHU017601
+8.8e-05,,1.0,By_MM_symptom|By_ingredient,0.000845,SMDE10183,Keratocystic Odontogenic Tumor,MTHU019336
+0.0,,0.073051,By_ingredient,4e-06,SMDE10215,"Kidney Failure, Chronic",MTHU036763|MTHU038572|MTHU044662|MTHU037363|MTHU036597|MTHU036383
+0.000251,,1.0,By_MM_symptom|By_ingredient,0.00189,SMDE10265,Lacrimal Apparatus Diseases,
+4.2e-05,,1.0,By_ingredient,0.000481,SMDE10307,Laryngitis,
+1e-05,,1.0,By_ingredient,0.000157,SMDE10371,Leishmaniasis,
+0.000102,,1.0,By_ingredient,0.000951,SMDE10374,"Leishmaniasis, Cutaneous",
+9.8e-05,,1.0,By_ingredient,0.000923,SMDE10375,"Leishmaniasis, Visceral",
+0.000246,,1.0,By_ingredient,0.001859,SMDE10388,Leptospirosis,
+0.000198,,1.0,By_ingredient,0.001576,SMDE10410,Leukocytosis,MTHU000211
+6.7e-05,,1.0,By_ingredient,0.000683,SMDE10431,Lichen Planus,
+5e-06,,1.0,By_ingredient,9e-05,SMDE10435,"Lichen Planus, Oral",
+0.000941,,1.0,By_ingredient,0.005167,SMDE10456,Lipid Pneumonia,
+0.000505,,1.0,By_ingredient,0.003222,SMDE10475,Listeriosis,
+7e-06,,1.0,By_ingredient,0.000123,SMDE10480,Liver And Intrahepatic Biliary Tract Carcinoma,
+0.000519,,1.0,By_ingredient,0.003289,SMDE10482,Liver Cirrhosis,MTHU018550|MTHU002081|MTHU008711
+3.1e-05,,1.0,By_ingredient,0.000376,SMDE10483,"Liver Cirrhosis, Alcoholic",
+0.000216,,1.0,By_ingredient,0.001686,SMDE10485,Liver Diseases,MTHU046632
+4.6e-05,,1.0,By_ingredient,0.000516,SMDE10504,Localized Scleroderma,
+0.000329,,1.0,By_ingredient,0.002322,SMDE10518,"Louse-Borne Relapsing Fever, Nos",
+0.000126,,1.0,By_ingredient,0.001112,SMDE10547,"Lung Diseases, Interstitial",MTHU012852
+4.5e-05,,1.0,By_ingredient,0.000504,SMDE10554,Lung Neoplasms,
+0.000438,,1.0,By_ingredient,0.002891,SMDE10567,"Lupus Erythematosus, Cutaneous",
+0.000279,,1.0,By_ingredient,0.002048,SMDE10568,"Lupus Erythematosus, Discoid",
+0.000434,,1.0,By_ingredient,0.002868,SMDE10569,"Lupus Erythematosus, Systemic",152700|MTHU016290
+0.000706,,1.0,By_ingredient,0.004152,SMDE10570,Lupus Nephritis,
+0.000238,,1.0,By_ingredient,0.001814,SMDE10572,Lupus Vulgaris,
+0.000309,,1.0,By_ingredient,0.002213,SMDE10573,Lyme Disease,
+0.000309,,1.0,By_ingredient,0.002213,SMDE10575,Lyme Neuroborreliosis,
+2e-06,,1.0,By_ingredient,4.5e-05,SMDE10577,Lymphadenitis,MTHU037495
+2.5e-05,,1.0,By_ingredient,0.000322,SMDE10610,"Lymphoma, Aids-Related",
+7.2e-05,,1.0,By_ingredient,0.000723,SMDE10612,"Lymphoma, Small Noncleaved-Cell",
+8e-06,,1.0,By_ingredient,0.000137,SMDE10635,Macular Degeneration,MTHU003281|607921|607643|MTHU009380
+4.8e-05,,1.0,By_ingredient,0.000531,SMDE10636,"Macular Degeneration, Age-Related, 1",608548|603075
+4.6e-05,,1.0,By_ingredient,0.000515,SMDE10637,"Macular Degeneration, Age-Related, 2",153800
+0.000622,,1.0,By_MM_symptom|By_ingredient,0.003774,SMDE10639,Macular Retinal Edema,MTHU031512
+0.000408,,1.0,By_ingredient,0.002737,SMDE10652,"Malaria, Cerebral",
+0.00021,,1.0,By_ingredient,0.001648,SMDE10662,Malig Neop Oth Spec Pancreas,
+0.00017,,1.0,By_ingredient,0.001403,SMDE10663,Malig Neop Oth Spec Part Oesop,
+7e-06,,1.0,By_ingredient,0.000123,SMDE10672,Malignant Hepato-Biliary Neoplasm,
+0.000125,,1.0,By_MM_symptom|By_ingredient,0.001111,SMDE10676,"Malignant Lymphoma, Lymphocytic, Intermediate Differentiation, Diffuse",607585
+0.00017,,1.0,By_ingredient,0.001403,SMDE10683,Malignant Neoplasm Of Abdominal Part Of Esophagus,
+0.00021,,1.0,By_ingredient,0.001648,SMDE10684,Malignant Neoplasm Of Body Of Pancreas,
+9.8e-05,,1.0,By_ingredient,0.000921,SMDE10686,Malignant Neoplasm Of Esophagus,MTHU023599
+7e-06,,1.0,By_ingredient,0.000123,SMDE10689,Malignant Neoplasm Of Liver,114550
+0.00017,,1.0,By_ingredient,0.001403,SMDE10690,Malignant Neoplasm Of Lower Third Of Esophagus,
+0.00017,,1.0,By_ingredient,0.001403,SMDE10691,Malignant Neoplasm Of Middle Third Of Esophagus,
+0.000205,,1.0,By_ingredient,0.001617,SMDE10692,Malignant Neoplasm Of Muscle,
+0.000137,,1.0,By_ingredient,0.001188,SMDE10693,Malignant Neoplasm Of Pancreas,MTHU015030
+0.00021,,1.0,By_ingredient,0.001648,SMDE10695,Malignant Neoplasm Of Tail Of Pancreas,
+0.00017,,1.0,By_ingredient,0.001403,SMDE10697,Malignant Neoplasm Of Upper Third Of Esophagus,
+0.000184,,1.0,By_ingredient,0.001492,SMDE10855,Meningitis,MTHU005994
+3.6e-05,,1.0,By_ingredient,0.000427,SMDE10857,"Meningitis, Bacterial",
+0.000438,,1.0,By_ingredient,0.002891,SMDE10988,Middle Ear Cholesteatoma,
+8e-05,,1.0,By_ingredient,0.000788,SMDE11084,Morphea,
+6e-06,,1.0,By_ingredient,0.000108,SMDE11099,Mouth Diseases,
+4.9e-05,,1.0,By_ingredient,0.00054,SMDE11100,Mouth Neoplasms,
+0.000246,,1.0,By_ingredient,0.001859,SMDE11133,Mud Fever,
+0.000736,,1.0,By_MM_symptom|By_ingredient,0.004287,SMDE11197,Mycetoma Of Foot,
+0.000229,,1.0,By_ingredient,0.001763,SMDE11210,Myelitis,
+0.00013,,1.0,By_ingredient,0.001144,SMDE11212,"Myelitis, Transverse",
+0.000442,,1.0,By_ingredient,0.002907,SMDE11222,Myocardial Ischemia,MTHU037875|MTHU038308
+0.0,,0.39441,By_ingredient,1.4e-05,SMDE11223,Myocardial Reperfusion Injury,
+0.000174,,1.0,By_ingredient,0.001427,SMDE11225,Myocarditis,
+9.5e-05,,1.0,By_ingredient,0.000894,SMDE11258,Myosarcoma,
+2e-05,,1.0,By_ingredient,0.000275,SMDE11300,Nasopharyngeal Neoplasms,
+1e-06,,0.442857,By_ingredient,1.5e-05,SMDE11326,Necrosis,MTHU039302|MTHU002552
+2e-06,,1.0,By_MM_symptom|By_ingredient,4.1e-05,SMDE11330,Necrotizing Enterocolitis,
+1e-06,,0.515752,By_MM_symptom|By_ingredient,1.7e-05,SMDE11352,Neoplasm Invasiveness,
+0.000292,,1.0,By_ingredient,0.002124,SMDE11369,"Neoplasms, Nerve Tissue",
+0.000164,,1.0,By_ingredient,0.001366,SMDE11396,Neural Crest Tumor,
+1.1e-05,,1.0,By_ingredient,0.00017,SMDE11418,Neuritis,
+0.000309,,1.0,By_ingredient,0.002213,SMDE11423,Neuroborreliosis,
+0.000676,,1.0,By_ingredient,0.004017,SMDE11426,Neurocysticercosis,
+3.3e-05,,1.0,By_ingredient,0.000399,SMDE11441,Neurogenic Inflammation,
+0.000601,,1.0,By_ingredient,0.003677,SMDE11454,Neuropathy,MTHU016030
+0.000425,,1.0,By_MM_symptom|By_ingredient,0.002825,SMDE11500,Nodular Fasciitis,
+0.000941,,1.0,By_ingredient,0.005167,SMDE11501,Nodular Goiter,MTHU052109|MTHU016742
+0.000373,,1.0,By_ingredient,0.002558,SMDE11532,Non-Small Cell Lung Carcinoma,211980|147575
+0.000794,,1.0,By_ingredient,0.004541,SMDE11545,Nose Diseases,
+5e-06,,1.0,By_ingredient,9.7e-05,SMDE11640,Oral Submucous Fibrosis,
+0.000111,,1.0,By_ingredient,0.001013,SMDE11642,Oral Ulcer,MTHU005463|MTHU033982
+1e-06,,1.0,By_ingredient,3.1e-05,SMDE11669,Osteitis,
+0.000132,,1.0,By_ingredient,0.001153,SMDE11693,Osteomyelitis,MTHU037798
+0.000126,,1.0,By_MM_symptom|By_ingredient,0.001112,SMDE11703,Osteosclerotic Myeloma,
+7.9e-05,,1.0,By_ingredient,0.000777,SMDE11741,Other Specif.Peritonitis Nos,
+0.000103,,1.0,By_ingredient,0.000958,SMDE11753,Otitis Media,MTHU005462
+6.1e-05,,1.0,By_ingredient,0.000641,SMDE11773,Ovarian Neoplasm,
+0.000753,,1.0,By_ingredient,0.004358,SMDE11799,Overnutrition,
+0.00021,,1.0,By_ingredient,0.001648,SMDE11833,Pancreas Head Cancer Malignant,
+0.00021,,1.0,By_ingredient,0.001648,SMDE11837,"Pancreatic Carcinoma, Familial",
+4.9e-05,,1.0,By_ingredient,0.000536,SMDE11858,Pancreatic Neoplasm,
+0.000815,,1.0,By_ingredient,0.004631,SMDE11895,Papilloma,
+0.000257,,1.0,By_ingredient,0.001926,SMDE11902,Paracoccidioidomycosis,
+8.7e-05,,1.0,By_ingredient,0.00084,SMDE11997,Pathological Accumulation Of Air In Tissues,MTHU036652
+8e-06,,1.0,By_ingredient,0.000133,SMDE12035,Peptic Ulcer,
+6.5e-05,,1.0,By_MM_symptom|By_ingredient,0.000673,SMDE12048,Periapical Periodontitis,
+5.2e-05,,1.0,By_ingredient,0.000564,SMDE12051,Pericarditis,MTHU011706
+0.000246,,1.0,By_ingredient,0.001859,SMDE12073,Periodontal Diseases,MTHU016203
+0.000523,,1.0,By_ingredient,0.003309,SMDE12075,Periodontitis,MTHU009733
+0.000257,,1.0,By_ingredient,0.001926,SMDE12079,Peripheral Arterial Diseases,
+2.2e-05,,1.0,By_ingredient,0.000295,SMDE12082,Peripheral Neuropathy,MTHU000700
+0.000705,,1.0,By_ingredient,0.004144,SMDE12089,Peritoneal Neoplasms,
+5e-05,,1.0,By_ingredient,0.000546,SMDE12091,Peritonitis,MTHU036750|MTHU018331
+2.9e-05,,1.0,By_ingredient,0.000356,SMDE12130,Pharyngeal Diseases,
+3.9e-05,,1.0,By_ingredient,0.000451,SMDE12132,Pharyngitis,MTHU007438
+0.000356,,1.0,By_ingredient,0.002466,SMDE12198,Placenta Disorders,
+0.000385,,1.0,By_ingredient,0.002618,SMDE12225,Pleural Diseases,
+0.000143,,1.0,By_ingredient,0.001224,SMDE12234,Pleurisy,MTHU011705
+0.000685,,1.0,By_ingredient,0.004056,SMDE12242,Pneumoconiosis,
+0.000141,,1.0,By_ingredient,0.001214,SMDE12244,Pneumonia,MTHU002638
+7e-06,,1.0,By_ingredient,0.000116,SMDE12261,Poems Syndrome,
+2.5e-05,,1.0,By_ingredient,0.000317,SMDE12266,Poliomyelitis,MTHU014245
+5.8e-05,,1.0,By_ingredient,0.000613,SMDE12273,Polycystic Kidney Diseases,MTHU017769
+0.000293,,1.0,By_ingredient,0.00213,SMDE12274,"Polycystic Kidney, Autosomal Dominant",173900
+0.0,,0.08679,By_ingredient,4e-06,SMDE12295,Polymyositis,MTHU037341
+1.5e-05,,1.0,By_ingredient,0.000216,SMDE12341,Post-Kala-Azar Dermal Leishmaniasis,
+0.000508,,1.0,By_ingredient,0.003236,SMDE12389,Pre-Eclampsia,189800|MTHU004758
+2.8e-05,,1.0,By_ingredient,0.000351,SMDE12436,Primary Effusion Lymphoma,
+7e-06,,1.0,By_ingredient,0.000123,SMDE12451,Primary Malignant Neoplasm Of Liver,MTHU019145
+5.8e-05,,1.0,By_ingredient,0.000613,SMDE12461,Proctitis Radiation,
+1.1e-05,,1.0,By_ingredient,0.000174,SMDE12484,Prostatitis,MTHU007521
+0.000882,,1.0,By_ingredient,0.004925,SMDE12491,Protein-Energy Malnutrition,
+0.000902,,1.0,By_ingredient,0.005007,SMDE12494,Protoplasmic Astrocytoma,
+0.000602,,1.0,By_ingredient,0.003683,SMDE12525,Pseudopelade,
+0.000377,,1.0,By_ingredient,0.002579,SMDE12534,Psoriasis,MTHU036411
+4e-06,,1.0,By_ingredient,7e-05,SMDE12588,Pulmonary Embolism,MTHU037124
+8.2e-05,,1.0,By_ingredient,0.000799,SMDE12592,Pulmonary Hemosiderosis Idiopathic,178550|235500
+6e-06,,1.0,By_ingredient,0.000106,SMDE12600,Pulmonary Lymphangioleiomyomatosis,
+2e-06,,1.0,By_MM_symptom|By_ingredient,3.7e-05,SMDE12611,Pulpitis,
+9.4e-05,,1.0,By_MM_symptom|By_ingredient,0.000892,SMDE12612,Punctate Palmoplantar Keratoderma,MTHU044493|MTHU040671
+6.7e-05,,1.0,By_ingredient,0.000688,SMDE12627,Pyelonephritis Xanthogranulomatous,
+0.000341,,1.0,By_ingredient,0.002387,SMDE12645,Q Fever Vaccine,
+3.4e-05,,1.0,By_ingredient,0.000411,SMDE12647,Quadrilateral Fever,
+3.4e-05,,1.0,By_ingredient,0.000411,SMDE12648,Quadriplegia,MTHU038030|MTHU036518
+7.2e-05,,1.0,By_ingredient,0.000723,SMDE12653,Radial-Renal Syndrome,179280
+0.000304,,1.0,By_ingredient,0.002185,SMDE12660,Radio Renal Syndrome,
+0.000833,,1.0,By_ingredient,0.004709,SMDE12680,"Rasmussen Syndrome, Intractable",
+5.7e-05,,1.0,By_ingredient,0.000606,SMDE12780,Renal Cell Carcinoma Associated With Inv(X)(P11;Q12),
+7e-06,,1.0,By_ingredient,0.000123,SMDE12806,Resectable Hepatocellular Carcinoma,
+0.000105,,1.0,By_ingredient,0.000968,SMDE12811,Respiratory Aspiration,
+0.000507,,1.0,By_ingredient,0.003232,SMDE12822,Respiratory Tract Hemorrhage,
+0.000166,,1.0,By_MM_symptom|By_ingredient,0.001378,SMDE12838,Retinal Neovascularization,MTHU018215|MTHU007395
+0.000145,,1.0,By_ingredient,0.001239,SMDE12879,Rheumatic Mitral Stenosis,
+1e-06,,0.608992,By_ingredient,2e-05,SMDE12882,Rheumatism And Fibrositis Unspecified,
+0.000254,,1.0,By_ingredient,0.001908,SMDE12900,Rift Valley Fever Vaccine,
+0.0,,0.155189,By_ingredient,7e-06,SMDE12953,"Sarcoidosis, Pulmonary",
+0.0,,0.317726,By_ingredient,1.2e-05,SMDE12956,Sarcoma - Category (Morphologic Abnormality),
+0.000941,,1.0,By_ingredient,0.005167,SMDE12987,Schofer Beetz Bohl Syndrome,
+0.0,,0.319711,By_ingredient,1.2e-05,SMDE13009,Scurf,
+1e-06,,0.554817,By_ingredient,1.8e-05,SMDE13156,Silicotuberculosis,
+1e-06,,0.729612,By_ingredient,2.3e-05,SMDE13157,Simple Bruising,179000
+0.0,,0.091587,By_ingredient,4e-06,SMDE13336,Spinal Cord Ischemia,
+0.0,,0.104277,By_ingredient,5e-06,SMDE13337,Spinal Cord Myelodysplasia,
+0.0,,0.104277,By_ingredient,5e-06,SMDE13342,Spinal Diseases,
+6.5e-05,,1.0,By_ingredient,0.000669,SMDE13379,Spondylarthropathies,MTHU027313
+0.000978,,1.0,By_MM_symptom|By_ingredient,0.005317,SMDE13380,Spondylitis,
+5.8e-05,,1.0,By_ingredient,0.000617,SMDE13625,Starch Granuloma Of Skin,
+1e-06,,0.687273,By_ingredient,2.2e-05,SMDE13640,Steatorrhea,MTHU009718|MTHU035683
+0.000312,,1.0,By_ingredient,0.002232,SMDE13668,Stomach Ulcer Adverse Event,
+0.000794,,1.0,By_ingredient,0.004541,SMDE13684,Strongylida Infections,
+1e-06,,0.63203,By_ingredient,2e-05,SMDE13700,Subarachnoid Hemorrhage Traumatic,
+4e-06,,1.0,By_ingredient,7.8e-05,SMDE13716,"Substance Abuse, Intravenous",
+2.7e-05,,1.0,By_ingredient,0.000338,SMDE13770,Synovitis,
+0.000102,,1.0,By_ingredient,0.000951,SMDE13771,"Synovitis, Acne, Pustulosis, Hyperostosis, And Osteitis Syndrome",
+3e-06,,1.0,By_ingredient,7e-05,SMDE13781,Systemic Scleroderma,
+0.0008,,1.0,By_ingredient,0.004566,SMDE13836,Testicular Neoplasms,
+2.2e-05,,1.0,By_MM_symptom|By_ingredient,0.00029,SMDE13895,Thyroid Neoplasm,
+0.000618,,1.0,By_ingredient,0.003754,SMDE13896,Thyroid Nodule,
+1.3e-05,,1.0,By_ingredient,0.000193,SMDE13926,Tonic - Clonic Seizures,MTHU021426|MTHU002377|MTHU021298|MTHU029003|MTHU000392|MTHU000807|MTHU035503|MTHU009784|MTHU001313|MTHU002978|MTHU038917
+6.3e-05,,1.0,By_ingredient,0.000654,SMDE13931,Tooth Abnormalities,MTHU044128|MTHU038558|MTHU037448|MTHU002327|MTHU013244|MTHU010117|MTHU022143
+5.8e-05,,1.0,By_ingredient,0.000617,SMDE13953,Toxocariasis,
+0.000136,,1.0,By_ingredient,0.001178,SMDE13976,Transient Myeloproliferative Disorder Of Down Syndrome,190685|151385
+3.3e-05,,1.0,By_ingredient,0.000393,SMDE14025,"Tsc2 Angiomyolipomas, Renal, Modifier Of",613254|147570
+0.000523,,1.0,By_ingredient,0.003309,SMDE14076,Ulna Fracture,MTHU053283
+0.000447,,1.0,By_ingredient,0.002937,SMDE14106,Ureteral Calculi,
+0.000395,,1.0,By_ingredient,0.002671,SMDE14165,Uveitis Adverse Event,
+0.000338,,1.0,By_MM_symptom|By_ingredient,0.002372,SMDE14201,Varicose Ulcer,MTHU033952
+0.0,,0.076459,By_ingredient,4e-06,SMDE14212,Vascular Fistula,
+3e-06,,1.0,By_ingredient,6.6e-05,SMDE14222,"Vasculitis, Leukocytoclastic, Cutaneous",
+4e-06,,1.0,By_MM_symptom|By_ingredient,7.3e-05,SMDE14290,Viral Epidemic Vertigo,
+0.000476,,1.0,By_ingredient,0.003078,SMDE14295,Viremia,
+0.0,,0.022529,By_ingredient,1e-06,SMDE14371,Widow,

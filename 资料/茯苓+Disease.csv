@@ -1,0 +1,115 @@
+P_value,Orphanet_id,FDR(Bonferroni),Relationship,FDR(BH),Disease_id,Disease_name,OMIM_id
+0.00075,97279.0,1.0,By_MM_symptom,0.006453,SMDE00404,Insulinoma,MTHU018340
+0.000359,1310.0,1.0,By_ingredient,0.007902,SMDE00613,Caffey Disease,114000
+0.000563,905.0,1.0,By_ingredient,0.003496,SMDE00866,Wilson Disease,277900
+3.3e-05,37.0,1.0,By_MM_symptom,0.000529,SMDE01747,Acrodermatitis Enteropathica,201100
+0.000846,524.0,1.0,By_ingredient,0.004767,SMDE01989,Li-Fraumeni Syndrome,151623|609266|609265
+5.7e-05,83465.0,1.0,By_MM_symptom,0.000816,SMDE02298,Narcolepsy Without Cataplexy,
+0.000147,,1.0,By_ingredient,0.003991,SMDE02318,Nasopharyngeal Carcinoma,607107
+6.2e-05,1416.0,1.0,By_ingredient,0.000644,SMDE02519,Familial Calcium Pyrophosphate Deposition,118600|600668
+7.7e-05,3287.0,1.0,By_ingredient,0.000768,SMDE02643,Takayasu Arteritis,207600
+0.00024,,1.0,By_ingredient,0.005887,SMDE02898,"Osteogenesis Imperfecta, Type I",166200
+0.00024,,1.0,By_ingredient,0.005887,SMDE03358,"Ehlers-Danlos Syndrome, Type Vii, Autosomal Dominant",130060
+0.000235,900.0,1.0,By_MM_symptom|By_ingredient,0.001795,SMDE03745,Granulomatosis With Polyangiitis,608710
+0.00079,49827.0,1.0,By_MM_symptom,0.0067,SMDE03849,Thiamine-Responsive Megaloblastic Anemia Syndrome,249270
+0.000807,,1.0,By_ingredient,0.004595,SMDE04086,"Diabetes Mellitus, Noninsulin-Dependent",125853
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE05398,Acromelalgia Hereditary,
+8.3e-05,,1.0,By_ingredient,0.000807,SMDE05426,Acute Coronary Syndrome,
+0.000675,,1.0,By_MM_symptom|By_ingredient,0.004016,SMDE05441,Acute Lung Injury,
+0.000852,,1.0,By_ingredient,0.004795,SMDE05448,Acute Pancreatitis,MTHU002054
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE05541,Adjustment Insomnia,
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE05646,Agrypnia,
+0.000385,,1.0,By_MM_symptom,0.003791,SMDE05684,Alcohol-Related Disorders,
+0.000385,,1.0,By_MM_symptom,0.003791,SMDE05772,Amphetamine-Related Disorders,
+0.000982,,1.0,By_ingredient,0.005336,SMDE05856,Aneurysm,MTHU044974
+7.3e-05,,1.0,By_MM_symptom,0.00101,SMDE05949,Anthrax Disease,
+0.000849,,1.0,By_MM_symptom,0.007092,SMDE06026,Aromatic Amino Acid Decarboxylase Deficiency,608643
+0.000792,,1.0,By_MM_symptom|By_ingredient,0.004532,SMDE06047,"Arthritis, Experimental",
+0.000426,,1.0,By_ingredient,0.002828,SMDE06063,Asbestosis,
+0.000846,,1.0,By_MM_symptom|By_ingredient,0.004767,SMDE06071,Aseptic Meningitis,
+0.000437,,1.0,By_ingredient,0.002884,SMDE06471,Bladder Squamous Cell Carcinoma,
+0.000905,,1.0,By_ingredient,0.005022,SMDE06491,Blind Loop Syndrome,
+0.000702,,1.0,By_ingredient,0.004133,SMDE06636,Bronchiolitis Obliterans,
+0.000184,,1.0,By_ingredient,0.001491,SMDE06697,Calcium Pyrophosphate Deposition Disease,MTHU005831
+0.000508,,1.0,By_MM_symptom,0.004737,SMDE06924,Cervix Diseases,
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE07190,Chronic Insomnia,
+0.00018,,1.0,By_ingredient,0.001466,SMDE07223,Churg-Strauss Syndrome,
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE07407,Conditioned Insomnia,
+0.000508,,1.0,By_MM_symptom,0.004737,SMDE07535,Contraception Behavior,
+0.000366,,1.0,By_ingredient,0.00252,SMDE07699,Cystadenocarcinoma Of Kidney,
+0.000849,,1.0,By_MM_symptom,0.007092,SMDE07751,Deficiency Of Aromatic-L-Amino-Acid Decarboxylase,107930|608643
+0.000441,,1.0,By_ingredient,0.002904,SMDE07853,"Diabetes Mellitus, Insulin-Dependent",MTHU013561|MTHU012236|222100|MTHU006777|612227|MTHU047431|MTHU023582|MTHU007813
+0.000807,,1.0,By_ingredient,0.004595,SMDE07854,"Diabetes Mellitus, Non-Insulin-Dependent",MTHU047504|167413|125853|138033|601724|138430|147545|164731|600281|MTHU014118|138160|600509|147670|189907|604641|MTHU006778|MTHU051483|MTHU023629|MTHU028982
+0.000457,,1.0,By_ingredient,0.002984,SMDE07917,Digestive System Neoplasms,
+0.000977,,1.0,By_MM_symptom,0.007926,SMDE07962,Diseases Sigmoid,
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE08001,Disturbance In Mood,MTHU014521|MTHU048292
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE08003,Disturbances Of Affect,
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE08030,Drug Induced Insomnia,
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE08101,Dysphylaxia,
+0.000264,,1.0,By_ingredient,0.001964,SMDE08247,Endocarditis,
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE08533,Exacerbated Insomnia,
+0.00048,,1.0,By_MM_symptom,0.004514,SMDE08553,Experimental Organism Islet Cell Adenoma Neoplasm,
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE08769,Fitful Sleep,
+6.1e-05,,1.0,By_ingredient,0.00064,SMDE08960,Gastrointestinal Neoplasms,
+0.00048,,1.0,By_ingredient,0.003097,SMDE09221,Hantavirosis,
+0.00048,,1.0,By_ingredient,0.003097,SMDE09345,Hemorrhagic Fever With Renal Syndrome,
+0.000282,,1.0,By_MM_symptom,0.002968,SMDE09576,Hydroxymethylbilane Synthase Deficiency,176000
+0.000907,,1.0,By_MM_symptom,0.007486,SMDE09578,Hymenolepiasis,
+0.000192,,1.0,By_MM_symptom|By_ingredient,0.002187,SMDE09649,Hypersomnia,
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE09763,Idiopathic Insomnia,
+0.00037,,1.0,By_ingredient,0.002543,SMDE09870,Infective Cystitis,
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE09945,Insomnia Co-Occurrent And Due To Nocturnal Myoclonus,
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE09946,Insomnia Disorder With Other Sleep Disorder,
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE09947,Insomnia Due To Mental Disorder,
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE09948,Insomnia Due To Organic Factor,
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE09949,Insomnia Not Due To Substance Or Known Physiological Condition,
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE09950,"Insomnia, Mixed",
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE09951,"Insomnia, Nonorganic",
+0.000271,,1.0,By_MM_symptom,0.002881,SMDE09963,Interacinar Cell Pancreatic Polypeptide Tumor,
+6.1e-05,,1.0,By_ingredient,0.00064,SMDE09987,Intestinal Diseases,MTHU003979
+7.3e-05,,1.0,By_MM_symptom|By_ingredient,0.00101,SMDE10088,Irritable Bowel Syndrome,MTHU038673
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE10325,Late Insomnia,
+0.000408,,1.0,By_ingredient,0.002739,SMDE10483,"Liver Cirrhosis, Alcoholic",
+0.000135,,1.0,By_ingredient,0.001177,SMDE10554,Lung Neoplasms,
+0.000319,,1.0,By_ingredient,0.00227,SMDE10654,"Malaria, Vivax",
+0.000759,,1.0,By_MM_symptom,0.006521,SMDE10798,Medullary Carcinoma Of Thyroid,MTHU016245
+0.000907,,1.0,By_MM_symptom,0.007486,SMDE10911,Mercury Poisoning,
+0.000598,,1.0,By_ingredient,0.003664,SMDE10985,Microscopic Polyarteritis,
+0.000235,,1.0,By_ingredient,0.001795,SMDE10989,Midline Granulomatosis,
+0.000958,,1.0,By_MM_symptom,0.007801,SMDE11014,Mild Cognitive Disorder,MTHU000616|MTHU051424
+0.000698,,1.0,By_ingredient,0.004117,SMDE11187,Myasthenia Gravis,254200
+3.2e-05,,1.0,By_ingredient,0.000391,SMDE11330,Necrotizing Enterocolitis,
+0.000983,,1.0,By_ingredient,0.005338,SMDE11369,"Neoplasms, Nerve Tissue",
+0.000566,,1.0,By_ingredient,0.003511,SMDE11545,Nose Diseases,
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE11559,"Obesity, Morbid",MTHU051042|MTHU044296|602044|601487
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE11650,"Organic Insomnia, Unspecified",
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE11745,Other Specified Insomnia Disorder,
+0.000122,,1.0,By_ingredient,0.001089,SMDE11773,Ovarian Neoplasm,
+3.7e-05,,1.0,By_MM_symptom,0.000583,SMDE11838,Pancreatic Cholera,
+0.000142,,1.0,By_ingredient,0.001222,SMDE11846,Pancreatic Intraductal Papillary Mucinous Adenoma,
+0.000271,,1.0,By_MM_symptom,0.002881,SMDE11859,Pancreatic Polypeptide-Oma,
+0.000396,,1.0,By_MM_symptom,0.003868,SMDE11933,Paranoia,MTHU037191|MTHU036836
+0.000235,,1.0,By_ingredient,0.001795,SMDE12002,Pauci-Immune Glomerulonephritis Associated With Granulomatosis With Polyangiitis,
+0.000752,,1.0,By_ingredient,0.004355,SMDE12091,Peritonitis,MTHU036750|MTHU018331
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE12107,Persistent Disorder Of Initiating Or Maintaining Sleep,
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE12108,Persistent Insomnia,
+0.000508,,1.0,By_MM_symptom,0.004737,SMDE12391,Precocious Puberty,MTHU037101|MTHU037272|MTHU038086
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE12446,Primary Insomnia,
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE12564,"Psychoses, Alcoholic",
+0.0004,,1.0,By_ingredient,0.0027,SMDE12835,"Retinal Dystrophy, Early-Onset, With Pituitary Dysfunction",600037
+0.000523,,1.0,By_ingredient,0.003309,SMDE12956,Sarcoma - Category (Morphologic Abnormality),
+2.2e-05,,1.0,By_ingredient,0.000289,SMDE13080,Sepsis (Invertebrate),
+0.000137,,1.0,By_ingredient,0.001186,SMDE13108,Sex Bias,
+0.000476,,1.0,By_MM_symptom,0.004484,SMDE13220,"Sleep Disorders, Circadian Rhythm",
+0.000247,,1.0,By_MM_symptom,0.002674,SMDE13264,Socioenvironmental Therapy,
+0.000271,,1.0,By_MM_symptom,0.002881,SMDE13277,Somnambulism,
+0.000161,,1.0,By_ingredient,0.001341,SMDE13336,Spinal Cord Ischemia,
+0.000203,,1.0,By_ingredient,0.001607,SMDE13337,Spinal Cord Myelodysplasia,
+0.000203,,1.0,By_ingredient,0.001607,SMDE13342,Spinal Diseases,
+0.000108,,1.0,By_MM_symptom,0.001374,SMDE13645,Stereotypic Movement Disorder,MTHU008369
+0.000108,,1.0,By_MM_symptom,0.001374,SMDE13646,Stern Lubinsky Durrie Syndrome,
+0.000334,,1.0,By_ingredient,0.002353,SMDE13700,Subarachnoid Hemorrhage Traumatic,
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE13975,Transient Ischemic Attack,MTHU000097|MTHU008084
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE14022,"Truncus Arteriosus, Persistent",217095|611770|601656
+5.7e-05,,1.0,By_MM_symptom,0.000816,SMDE14095,Unstable Psoriasis,
+1.1e-05,,1.0,By_ingredient,0.000175,SMDE14212,Vascular Fistula,

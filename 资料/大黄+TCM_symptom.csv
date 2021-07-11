@@ -1,0 +1,102 @@
+Symptom_pinyin,Symptom_property,Symptom_locus,TCM_symptom_id,TCM_symptom_name,Type
+Bao Fa Huo Yan,火热,眼,SMTS00016,暴发火眼,Ontological terms
+Bi He Xing Xin Jiu Ruan Zu Zhi Sun Shang,瘀证,,SMTS00035,闭合性新旧软组织损伤,Synonymous terms
+Bi Jing,任脉不通,子宫,SMTS00036,闭经,Ontological terms
+Bian Mi,阳明燥结,大肠,SMTS00045,便秘,Ontological terms
+Chao Re,阳明燥结,大肠,SMTS00093,潮热,Ontological terms
+Chu Xie,火热,脾,SMTS00107,出血,Ontological terms
+Chuang Yang,热毒,皮肤,SMTS00128,疮疡,Ontological terms
+Da Bian Chou Hui,湿热,大肠,SMTS00149,大便臭秽,Synonymous terms
+Da Bian Suan Chou,火热,大肠,SMTS00163,大便酸臭,Synonymous terms
+Da Bian Zao Jie,津亏,大肠,SMTS00171,大便燥结,Ontological terms
+Dan Dao Gan Ran,湿热,胆,SMTS00180,胆道感染,Synonymous terms
+Die Da Sun Shang,瘀血,,SMTS00191,跌打损伤,Ontological terms
+Du Xie Wei Jin,虫毒,,SMTS00205,毒邪未尽,Synonymous terms
+Fu Bu Bu Shi,气滞,胃肠,SMTS00283,腹部不适,Synonymous terms
+Fu Bu Yin Tong,气虚,胃肠,SMTS00284,腹部隐痛,Synonymous terms
+Fu Tong,血虚,胃,SMTS00288,腹痛,Ontological terms
+Fu Tong Mian Mian,气虚,胃,SMTS00289,腹痛绵绵,Synonymous terms
+Guan Jie Jiang Ying,经络不通,四肢,SMTS00359,关节僵硬,Synonymous terms
+Hua Nong,湿热,,SMTS00404,化脓,Synonymous terms
+Ji Fu Hong,热,皮肤,SMTS00414,肌肤红,Synonymous terms
+Ji Zhi,气滞,脾,SMTS00431,积滞,Ontological terms
+Jing Bi,瘀血,子宫,SMTS00470,经闭,Ontological terms
+Jing Xiang Teng Tong,经络不通,四肢,SMTS00517,颈项疼痛,Synonymous terms
+Ke Qiang Zhen Zuo,气逆,肺,SMTS00547,咳呛阵作,Synonymous terms
+Ke,火热,肾,SMTS00562,渴,Synonymous terms
+Kou Dan Fa Wei,脾虚,肝脾,SMTS00571,口淡乏味,Synonymous terms
+Kou Ke,火热,肝脾,SMTS00577,口渴,Ontological terms
+Kou Zao,火热,肝脾,SMTS00595,口燥,Ontological terms
+Li Ji,湿热,大肠,SMTS00615,痢疾,Ontological terms
+Liang Sai Tong,火热,,SMTS00617,两腮痛,Synonymous terms
+Liang Sai Zhong Tong,火热,,SMTS00619,两腮肿痛,Synonymous terms
+Lin Zheng,湿热,,SMTS00624,淋证,Ontological terms
+Lin Zheng,湿热,,SMTS00626,淋症,Synonymous terms
+Mian Chi,火热,肾,SMTS00668,面赤,Synonymous terms
+Mian Hong,火热,肾,SMTS00670,面红,Synonymous terms
+Mu Chi,火热,肝,SMTS00688,目赤,Ontological terms
+Mu Xuan,肝阳上亢,肝,SMTS00701,目眩,Ontological terms
+Niao Chi,心火旺,膀胱,SMTS00721,尿赤,Ontological terms
+Niao Huang,膀胱湿热,膀胱,SMTS00727,尿黄,Synonymous terms
+Niao Se Chi Huang,湿热,膀胱,SMTS00735,尿色赤黄,Synonymous terms
+Niao Xie Xie Se Xian Hong,湿热,膀胱,SMTS00743,尿血血色鲜红,Synonymous terms
+Niao Xie Xie Se Zi Hong,湿热,膀胱,SMTS00744,尿血血色紫红,Synonymous terms
+Nv Xie,,,SMTS00752,衄血,Ontological terms
+Pi Xia Jie Kuai,淤血,皮肤,SMTS00783,皮下结块,Synonymous terms
+Qi Fu Zhang Tong,肝气郁滞,脾胃,SMTS00800,脐腹胀痛,Synonymous terms
+Qing Du Shao Shang,,皮肤,SMTS00822,轻度烧伤,Synonymous terms
+Qing Du Tang Shang （ Biao Pi Wei Po ),,皮肤,SMTS00824,轻度烫伤（表皮未破),Synonymous terms
+Re Li,,,SMTS00838,热痢,Ontological terms
+Re Lin Zheng,热证,,SMTS00840,热淋证,Ontological terms
+Ruan Zu Zhi Sun Shang,,,SMTS00866,软组织损伤,Synonymous terms
+Shang Xiao Hua Dao Chu Xie Liang Duo,,胃,SMTS00885,上消化道出血量多,Synonymous terms
+Shao Jin,脾虚,脾,SMTS00893,少津,Synonymous terms
+She Gan,脾虚,脾,SMTS00904,舌干,Synonymous terms
+She Pian Hong,血热,脾,SMTS00912,舌偏红,Synonymous terms
+Shen Zhi Dan Mo,元神失养,心脑,SMTS00957,神志淡漠,Synonymous terms
+Sheng Dai Xi Rou,淤血阻滞,肾,SMTS00966,声带息肉,Synonymous terms
+Sheng Dai Xiao Jie,肝气郁滞,肾,SMTS00967,声带小结,Synonymous terms
+Shi Re Xia Zhu,湿热,皮肤,SMTS00977,湿热下注,Synonymous terms
+Shi You Yin Tong,肝经失养,,SMTS00983,时有隐痛,Synonymous terms
+Shui Jiang Nan Xia,胃气虚,胃,SMTS01025,水浆难下,Synonymous terms
+Shui Zhong,肾阳虚,肾,SMTS01027,水肿,Ontological terms
+Si Zhi Ni Leng,阳虚,四肢,SMTS01043,四肢逆冷,Synonymous terms
+Sou Huang,肝经湿热,肝,SMTS01050,溲黄,Synonymous terms
+Ting Jing,肝肾亏虚,肾,SMTS01110,停经,Synonymous terms
+Ting Shi,脾胃亏虚,脾胃,SMTS01112,停食,Ontological terms
+Tong Chu Ju An,淤血,,SMTS01115,痛处拒按,Synonymous terms
+Tong You Ding Chu,淤血,,SMTS01119,痛有定处,Synonymous terms
+Tou Bu Jie Zhong,热证,头,SMTS01120,头部疖肿,Ontological terms
+Tou Tong,气虚亏虚,头,SMTS01133,头痛,Ontological terms
+Tu Nv,热伤血络,肺,SMTS01147,吐衄,Ontological terms
+Tu Xie,血络损伤,胃,SMTS01152,吐血,Ontological terms
+Tuo Jiu,外伤,四肢,SMTS01160,脱臼,Synonymous terms
+Wei Chang Bu Shi,脾胃虚弱,肠胃,SMTS01193,胃肠不适,Synonymous terms
+Xiao Er Ji Zhi Hua Re,脾胃 虚,脾,SMTS01291,小儿积滞化热,Synonymous terms
+Xiao Fu Liang Ce Zhang Tong,肝气郁滞,子宫,SMTS01298,小腹两侧胀痛,Synonymous terms
+Xin Fan,心阴虚,心,SMTS01324,心烦,Ontological terms
+Xiong Re,心胸郁热,心肺,SMTS01390,胸热,Synonymous terms
+Xie Re Tu Niu,胃热,胃,SMTS01446,血热吐紐,Synonymous terms
+Xie Re Tu Nv,胃热,胃,SMTS01447,血热吐衄,Ontological terms
+Yan Bu Zhong,肺热,肺,SMTS01468,咽部肿,Synonymous terms
+Yan Zhong You Tan,痰湿,肺,SMTS01494,咽中有痰,Synonymous terms
+Yan Bian Ci Yang,肝风内动,肝目,SMTS01502,眼边刺痒,Synonymous terms
+Yi Ji,胃火亢盛,胃,SMTS01566,易饥,Synonymous terms
+Yin Tong,,,SMTS01586,隐痛,Synonymous terms
+Ying Shou,先天不足，后天失养,脾肾,SMTS01590,嬴瘦,Synonymous terms
+Yong Zhong,热毒,皮肤,SMTS01599,痈肿,Ontological terms
+Yong Zhong Chuang Yang,热毒,皮肤,SMTS01600,痈肿疮疡,Ontological terms
+Yu Xie Bu Jin,血瘀,,SMTS01608,瘀血不尽,Synonymous terms
+Yu Xie Zu Luo,,,SMTS01610,瘀血阻络,Synonymous terms
+Zheng Jia,瘀血阻滞,肝,SMTS01646,癥瘕,Ontological terms
+Zhong Tong,,,SMTS01687,肿痛,Ontological terms
+Chan Hou Yu Zu,,,SMTS01750,产后瘀阻,Ontological terms
+Yan Zhong,,,SMTS01800,咽肿,Ontological terms
+Shi Re Ji Zhi Bian Mi,,,SMTS01837,实热积滞便秘,Ontological terms
+Huo Du Chuang Yang,,,SMTS01974,火毒疮疡,Ontological terms
+Shao Shang,,皮肤,SMTS01979,烧伤,Ontological terms
+Shao Tang Shang,,皮肤,SMTS01980,烧烫伤,Ontological terms
+Tang Shang,,,SMTS01981,烫伤,Ontological terms
+Ding Chuang,热毒蕴结肌肤证、火毒炽 盛证、余毒未清证、毒入营血证,颜面,SMTS01996,疔疮,Ontological terms
+Chang Yong,气机不畅，气滞血瘀,大肠,SMTS02156,肠痈,Ontological terms
+Huang Ju,,,SMTS02360,黄疽,Ontological terms
